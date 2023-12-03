@@ -1,0 +1,9 @@
+<archetype>
+  <id>Laba5.3</id>
+  <sources>
+    <source>src/main/java/main..java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
