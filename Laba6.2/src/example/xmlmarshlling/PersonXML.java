@@ -1,6 +1,5 @@
 package example.xmlmarshlling;
 
-import entities.PersonEntity;
 import example.entries.PersonEntity;
 
 import javax.xml.bind.annotation.XmlAccessType;
